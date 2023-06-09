@@ -15,3 +15,6 @@ Rating: The ESRB ratings
 ## What I Have Done:
 
 Using this dataset, I have conducted analysis to determine which game categories have higher sales and which platforms have more sales, among other insights. For my analysis, I utilized libraries such as NumPy, Pandas, Matplotlib, and Seaborn for calculations and data visualization.
+
+## Kaggle Link
+https://www.kaggle.com/code/jayagopal20/video-game-stats
